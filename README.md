@@ -2,5 +2,5 @@
 
 │	Number │ Task │  Abc │	
 │:------:│:------│------│	
-│ 1 │	1st lab │ A │
+│ 1 │	1st lab │ ! │
 │	2 │	2nd lab │	B │	
