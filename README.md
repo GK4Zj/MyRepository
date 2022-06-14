@@ -1,4 +1,4 @@
-#Labworks Xmind
+# Labworks Xmind
 
 This repository contains lectures and homeworks for Numerical linear algebra course. It will be updated as the class progresses.
 
